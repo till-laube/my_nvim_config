@@ -1,0 +1,19 @@
+set nocompatible
+set rnu
+set ic
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set laststatus=2
+set showmode
+set showcmd
+syntax on
+set history=1000
+set autoindent
+set mouse=a
+set clipboard=unnamedplus
+set cursorline
+set nowrap
+set scrolloff=5
+
