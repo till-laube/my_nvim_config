@@ -1,5 +1,5 @@
 set nocompatible
-set rnu
+set number relativenumber
 set ic
 set hlsearch
 set incsearch
